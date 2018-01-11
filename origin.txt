@@ -1,0 +1,556 @@
+Uri: https://qaengine.enginethemes.com/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/feed/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qaengine.enginethemes.com/comments/feed/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qaengine.enginethemes.com/questions-listing/feed/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\questions-listing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/css/bootstrap.min.css?ver=1482833515
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/css/font-awesome.min.css?ver=1464666882
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/css/jquery.mCustomScrollbar.min.css?ver=1464666882
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\css\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/css/main.css?ver=1482833515
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\css\main.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-admin/css/color-picker.min.css?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-admin\css\color-picker.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/libs/font-awesome.min.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\libs\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/main.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\main.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/editor.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\editor.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/libs/push-menu.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\libs\push-menu.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/libs/chosen.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\libs\chosen.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/custom.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\custom.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/bootstrap-datetimepicker.min.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/css/colorpicker.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\css\colorpicker.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/style.css?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\style.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-json/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://qaengine.enginethemes.com/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://qaengine.enginethemes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqaengine.enginethemes.com%2F
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://qaengine.enginethemes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqaengine.enginethemes.com%2F&
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://qaengine.enginethemes.com/tags-4/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\tags-4\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/badges/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\badges\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/categories-3/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\categories-3\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/users/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\users\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/term/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\term\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/business-2/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\business-2\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/technology-2/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\technology-2\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/marketing-2/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\marketing-2\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/google/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\google\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/apps/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\apps\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/billionaire/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\billionaire\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/movie-2/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\movie-2\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/glass/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\glass\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-are-the-best-mobile-apps-for-traveling/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-are-the-best-mobile-apps-for-traveling\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/select-coordinates-which-fall-within-a-radius-of-a-central-point/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\select-coordinates-which-fall-within-a-radius-of-a-central-point\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/how-to-become-a-billionaire-in-the-next-5-years/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\how-to-become-a-billionaire-in-the-next-5-years\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/how-to-be-rich/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\how-to-be-rich\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/why-isnt-music-free/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\why-isnt-music-free\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-is-business/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-is-business\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-is-it-like-to-be-a-billionaire/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-is-it-like-to-be-a-billionaire\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/this-is-a-question-test/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\this-is-a-question-test\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/tatthien/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\tatthien\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/alex/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\alex\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/marry/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\marry\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/john/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\john\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/smith/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\smith\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/anntt/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\anntt\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/simpleplantourboston/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\simpleplantourboston\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/chlam/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\chlam\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/cem-ozturk/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\cem-ozturk\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/about-us/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/contact/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/?sort=vote
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\index-1.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/?sort=unanswer
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\index-2.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/admindemo/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\admindemo\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/business/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\business\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/education/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\education\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/test/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\test\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/photography/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\photography\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/gavick/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\gavick\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/technology/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\technology\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/poll/what-s-your-favorite-song/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\poll\what-s-your-favorite-song\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/member/admin/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\member\admin\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/music/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\music\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/android/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\android\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/apple/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\apple\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/mobile/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\mobile\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/facebook/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\facebook\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/social/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\social\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-are-good-ways-to-learn-to-become-the-best-digital-marketer/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-are-good-ways-to-learn-to-become-the-best-digital-marketer\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/important/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\important\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question-category/marketing/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question-category\marketing\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-are-key-strategies-to-acquire-first-100k-users-with-zero-marketing-budget/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-are-key-strategies-to-acquire-first-100k-users-with-zero-marketing-budget\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/buget/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\buget\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/users/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\users\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/question/what-were-the-latest-trends-in-marketing-for-2013/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\question\what-were-the-latest-trends-in-marketing-for-2013\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/demo/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\demo\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/marketers/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\marketers\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/blog/qa-tag/media/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\blog\qa-tag\media\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/wp-includes/css/dashicons.min.css?ver=1463369188
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-includes/css/editor.min.css?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\css\editor.min.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/privacy/
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\privacy\index.htm
+Content Type: text/html
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/css/pricing-block.css
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\css\pricing-block.css
+Content Type: text/css
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/selectivizr-min.js
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\selectivizr-min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/jquery.js?ver=1466532443
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1466532443
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/plupload/plupload.full.min.js?ver=1452157707
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\plupload\plupload.full.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/img/logo.png
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\img\logo.png
+Content Type: image/png
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/underscore.min.js?ver=1463369188
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/backbone.min.js?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\backbone.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/includes/aecore/assets/js/marionette.js?ver=1483511984
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\includes\aecore\assets\js\marionette.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/includes/aecore/assets/js/appengine.js?ver=1483511984
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\includes\aecore\assets\js\appengine.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/functions.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\functions.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/front.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\front.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/pumping.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\pumping.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/jquery-countdown/jquery.plugin.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\jquery-countdown\jquery.plugin.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/jquery-countdown/jquery.countdown.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\jquery-countdown\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/core.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/widget.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\draggable.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/slider.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=1432020660
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\jquery.ui.touch-punch.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-admin/js/iris.min.js?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-admin\js\iris.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/poll.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\poll.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/includes/aecore/assets/js/bootstrap.min.js?ver=1483511984
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\includes\aecore\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/modernizr.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\modernizr.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/jquery.simple-text-rotator.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\jquery.simple-text-rotator.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/includes/aecore/assets/js/jquery.validate.min.js?ver=1483511984
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\includes\aecore\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/position.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/menu.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\menu.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/wp-a11y.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\wp-a11y.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\jquery\ui\autocomplete.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/heartbeat.min.js?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\heartbeat.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/waypoints.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/waypoints-sticky.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\waypoints-sticky.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/includes/aecore/assets/js/chosen.js?ver=1483511984
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\includes\aecore\assets\js\chosen.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/libs/classie.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\libs\classie.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/scripts.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/moment.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\moment.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/bootstrap-datetimepicker.min.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/themes/qaengine/js/colorpicker.js?ver=1483511937
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\themes\qaengine\js\colorpicker.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/js/jquery.mCustomScrollbar.concat.min.js?ver=1464666882
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/js/main.js?ver=1482833515
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\js\main.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-admin/js/color-picker.min.js?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-admin\js\color-picker.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/wp-embed.min.js?ver=1483691856
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/utils.min.js?ver=1483691855
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-admin/js/editor.min.js?ver=1488823242
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-admin\js\editor.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/wplink.min.js?ver=1484164890
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\wplink.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/tinymce/tinymce.min.js?ver=4506-20170408
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\tinymce\tinymce.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?ver=4506-20170408
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\tinymce\plugins\compat3x\plugin.min.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-includes/js/tinymce/langs/wp-langs-en.js?ver=4506-20170408
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-includes\js\tinymce\langs\wp-langs-en.js
+Content Type: application/javascript
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\fonts\glyphicons-halflings-regular.woff2
+Content Type: applicaiton/octet-stream
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://qaengine.enginethemes.com/wp-content/plugins/et_demobar/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\qaengine.enginethemes.com\wp-content\plugins\et_demobar\fonts\glyphicons-halflings-regular.ttf
+Content Type: applicaiton/octet-stream
+
